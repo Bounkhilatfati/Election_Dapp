@@ -4,7 +4,7 @@
 
 ## Step 2. Install dependencies
 ```
-$ cd election
+$ cd Election_Dapp
 $ npm install
 ```
 ## Step 3. Start Ganache
