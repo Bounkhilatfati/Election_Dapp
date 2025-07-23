@@ -3699,12 +3699,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x5c10b48304234fbCfe85b8251217c9509D179e00",
-      "transactionHash": "0x6d68ce8abf145321a721290e8609b53f8cf59c39fbcfb694ed0e3d7ddfd06202"
+      "address": "0xb95fa446CFf45F670c40B7FFef324009661Cec0A",
+      "transactionHash": "0xdef86e7394f931e9188e645e1ab4c76fe2bdbba2ad90907776c282b0cee81a04"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-07-21T15:26:30.011Z",
+  "updatedAt": "2025-07-23T11:28:41.982Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
